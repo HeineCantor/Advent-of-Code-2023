@@ -48,6 +48,6 @@ def elaborateSeedList(filePath):
     return totalMinimum
 
 if __name__ == "__main__":
-    minimum = elaborateSeedList("/home/heinecantor/Desktop/git/Advent-of-Code-2023/day5/input.txt")
+    minimum = elaborateSeedList("input.txt")
 
     print(minimum)
